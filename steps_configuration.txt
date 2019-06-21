@@ -1,0 +1,9 @@
+1.
+ssh -i almacenamiento-dos.pem hadoop@ec2-18-205-245-164.compute-1.amazonaws.com
+
+2. 
+ssh -i almacenamiento-dos.pem hadoop@ec2-18-207-150-157.compute-1.amazonaws.com
+
+3. 
+ssh -i almacenamiento-dos.pem hadoop@ec2-54-235-5-64.compute-1.amazonaws.com
+

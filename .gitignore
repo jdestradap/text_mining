@@ -1,0 +1,9 @@
+.DS_Store
+meta_dat/build/news-idx
+meta_dat/data/news/news.dat
+.ipynb_checkpoints
+csv_to_paraquet_topics
+news.csv
+derby.log
+metastore_db
+csv_to_paraquet
